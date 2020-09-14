@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "name": "Trần Nguyễn Hữu Vinh",
+    "gender": "Nam",
+    "age": 26,
+    "email": "vinh@gmail.com",
+    "address": "19 Sông Nhuệ",
+    "phone": "0963861000",
+    "job": "IT"
+  },
+  {
+    "id": 3,
+    "name": "Lê Ngọc Khoa",
+    "gender": "Nam",
+    "age": 25,
+    "email": "khoa@gmail.com",
+    "address": "19 Sông Nhuệ",
+    "phone": "0963861001",
+    "job": "IT"
+  }
+]

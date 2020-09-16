@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600138044452,
+  "timestamp": 1600222896125,
   "index": "https://mhaik36.github.io/demo-offline/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://mhaik36.github.io/demo-offline/favicon.ico",
         "https://mhaik36.github.io/demo-offline/index.html",
-        "https://mhaik36.github.io/demo-offline/main.d73c0bb180b93deeafd4.js",
+        "https://mhaik36.github.io/demo-offline/main.a85f2579515511c81108.js",
         "https://mhaik36.github.io/demo-offline/manifest.webmanifest",
         "https://mhaik36.github.io/demo-offline/polyfills.a4021de53358bb0fec14.js",
         "https://mhaik36.github.io/demo-offline/runtime.e227d1a0e31cbccbf8ec.js",
@@ -56,8 +56,8 @@
     "https://mhaik36.github.io/demo-offline/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://mhaik36.github.io/demo-offline/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://mhaik36.github.io/demo-offline/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://mhaik36.github.io/demo-offline/index.html": "4ca90b425cabce02bf2a16bdfe543e132b929c9d",
-    "https://mhaik36.github.io/demo-offline/main.d73c0bb180b93deeafd4.js": "1ac23137cd2b09b429cb361bfe102e87db46cc00",
+    "https://mhaik36.github.io/demo-offline/index.html": "43cb145e05b0b43c215f4c5dc0562469b2a875c5",
+    "https://mhaik36.github.io/demo-offline/main.a85f2579515511c81108.js": "5126e6e812fde46d0467168f96acc47a28030832",
     "https://mhaik36.github.io/demo-offline/manifest.webmanifest": "4ce3874c05fe7a63510cdc4715403cc06411c2c3",
     "https://mhaik36.github.io/demo-offline/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "https://mhaik36.github.io/demo-offline/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
